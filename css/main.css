@@ -43,7 +43,8 @@ ul.posts li {
 }
 
 .navbar {
-    background-color: #D22B2B;
+    /* background-color: #D22B2B; */
+    background-color: black;
     height: 100px;
     font-size: 50px;
     width: 100%;
